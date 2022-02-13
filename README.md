@@ -4,7 +4,7 @@
 :fire: Platform : MySQL :fire:
 
 
-<img height="200px" src="Screenshots/Create.png" >
+<img height="150px" src="Screenshots/Create.png" >
 
    
   
