@@ -10,7 +10,7 @@
 
 ## Query: Create Table
 
-<img height="400px" src="Screenshots/table.png" >
+<img height="430px" src="Screenshots/table.png" >
 
 
    
