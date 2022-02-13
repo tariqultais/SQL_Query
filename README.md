@@ -4,7 +4,14 @@
 :fire: Platform : MySQL :fire:
 
 
-<img height="180px" src="Screenshots/Create.png" >
+## Query: Create Database
+
+<img height="200px" src="Screenshots/Create.png" >
+
+## Query: Create Table
+
+<img height="200px" src="Screenshots/table.png" >
+
 
    
   
