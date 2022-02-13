@@ -4,7 +4,7 @@
 :fire: Platform : MySQL :fire:
 
 
-<img src="screenshots/create.png" >
+<img src="Screenshots/Create.png" >
 
    
   
