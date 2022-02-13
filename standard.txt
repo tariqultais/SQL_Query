@@ -1,0 +1,88 @@
+The COUNT(*) function returns the number of records in a table:
+
+=======================================================
+
+SELECT COUNT(*) FROM table_name;
+
+=======================================================
+
+SELECT COUNT(*) FROM student;
+
+=======================================================
+
+INSERT INTO student( 
+    Id_No,
+    Name,
+    Mobile,
+    email
+)
+VALUES
+    (
+        "02",
+        "Mohsin",
+        "017*****21717",
+        "Mohsin@xyz.com"
+
+    ),
+
+    (
+        "03",
+        "Susmita",
+        "01780***9883",
+        "susmita@xyz.com"
+
+
+    ),
+
+    (
+        "04",
+        "Sajib",
+        "0175*******799",
+        "sajib@xyz.com"
+
+
+    ),
+
+    (
+        "05",
+        "Rabeya Akter Maria", 
+        "017******970",
+        "2201081174@xyz.com"
+    );
+
+
+    ==================================
+
+    ALTER TABLE student modify COLUMN email VARCHAR(250);
+
+    ==================================
+
+DDL SQL
+=========
+
+Fundamental DDL in SQL
+
+CREATE DATABASE database_name;
+CREATE TABLE table_name;
+
+
+ALTER CHANGE table propertie;
+DROP    
+modify
+
+describe database_name;
+
+========================
+
+Fundamental DML in SQL
+
+CRUD 
+
+C: CREATE a record 
+
+INSERT INTO table_name;
+
+READ data from a data table
+
+SELECT * FROM table_name;
+
