@@ -1,1 +1,14 @@
-# SQL_Query-
+# Basic SQL_Query
+
+
+:fire: Platform : MySQL :fire:
+
+
+<img src="screenshots/create.png" >
+
+   
+  
+## Contact: tariqul.tais@yahoo.com
+            Twitter: @tariqul_tais
+##     Web: http://tariqultais.github.io
+### :heart: Loved or  Liked :+1: the work don't forget to :star: the repo :fire: :fire: :fire:
