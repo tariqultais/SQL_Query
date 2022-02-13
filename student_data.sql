@@ -10,126 +10,126 @@ VALUES
     (
         "01",
         "bakhtiar",
-        "01775656465",
+        "01775****65",
         "bakhtiar@abc.com"
     ),
 
     (
         "02",
         "Mohsin",
-        "01770021717",
+        "017******17",
         "Mohsin@xyz.com"
     ),
 
     (
         "03",
         "Susmita",
-        "01780209883",
+        "0178*****883",
         "susmita@xyz.com"
     ),
 
     (
         "04",
         "Sajib",
-        "01704517799",
+        "0170*****799",
         "sajib@xyz.com"
     ),
 
     (
         "05",
         "Rabeya Akter Maria", 
-        "01731258970",
+        "0173*****970",
         "2201081174@xyz.com"
     ),
 
     (
         "06",
         "Romana Idress Ekfa",
-        "01307957682",
+        "0130*****4482",
         "2201081131@uttarauniversity.edu.bd"
     ),
 
     (
         "07",
         "Tariqul",
-        "01644947831",
+        "0164****831",
         "2201081175@uu.edu.bd"
 
     ),
     (
         "08",
         "Sadia Islam",
-        "01933187612",
+        "01933****12",
         "2201081165@uttarauniversity.edu.bd"
     ),
     (
         "09",
         "Hasubul Bashar",
-        "01873331618",
+        "0187****1618",
         "2201081123@uu.edu.bd"
     ),
     (  
         "10",
         " Jannat Naima",
-        "01715591333", 
+        "0171***1333", 
         "2201081127@uttarauniversity.edu.bd"
     ),
     (
         "11",
         "Sumaiya Drong",
-        "01852784338",
+        "0185*****38",
         "2201081136@uttarauniversity.edu.bd"
     ),
     (
         "12",
         "Mst. Suraiya Akter ",
-        "01826337172",
+        "0182****172",
         "2201081132@uttarauniversity.edu.bd"
     ),
 
     ( 
         "13",
         "Deepro Das",
-        "01533538697", 
+        "015******697", 
         "2192081042@uttarauniversity.edu.bd"
     ),
 
     (
         "14",
         "Abdulla Al Masud",
-        "01736368646",
+        "0173****46",
         "2200181178@uttarauniversity.edu.bd"
     ),
     (
-    "15",
-    "Auntora Yasmin ",
-    "01319345959",
-    "2201081128@uttarauniversity.edu.bd"
+        "15",
+        "Auntora Yasmin ",
+        "013******59",
+        "2201081128@uttarauniversity.edu.bd"
     ),
  
     (
         "16",
         "Rabeya Bosri ", 
-        "01307786853",
+        "0130******53",
         "2201081147@uttarauniversity.edu.bd"
     ),
     (
         "17",
         "Fatema Nur",
-        "01822641858",
+        "0182*****858",
         "2201081143@uttarauniversity.edu.bd"
     ),
     (
 
         "18",
         "Ripon sarker",
-        "01611645627",
+        "01611****627",
         "2201081138@uttarauniversity.edu.bd"
     ),
     (
         "19",
         "Tanvir Ahmed", 
-        "01990736136",
+        "0199*****136",
         "2201081121@uttarauniversity.edu.bd"
     ); 
 
