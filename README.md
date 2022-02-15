@@ -1,5 +1,6 @@
 # Basic SQL_Query
 
+This Repository is all about learning the basics of Database in MySQL Query.
 
 :fire: Platform : MySQL :fire:
 
