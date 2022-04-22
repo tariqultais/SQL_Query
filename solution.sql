@@ -4,10 +4,11 @@ CREATE TABLE instructor (
   Id_No varchar(10) NOT NULL,
   Name varchar(30),
   Department varchar(11),
-  salary varchar(30),
-home_city varchar(30),
+  salary numeric(18,2),
+  home_city varchar(30),
   PRIMARY KEY(Id_No)
 );
+
 CREATE TABLE paper(
   paper_id varchar(10) NOT NULL,
   paper_name varchar(30),
@@ -16,20 +17,19 @@ CREATE TABLE paper(
 );
 
 
+
 Ans 2: ==================================================
 
+INSERT INTO instructor Id_No, Name,Department,salary,home_city VALUES   (1001', Ekfa ','EEE', '750000', 'Dhaka');
 
-
-INSERT [dbo].[instructor] ([Id_No], [Name], [Department], [salary], [home_city]) VALUES (N'1001', N'Ekfa ', N'EEE', N'750000', N'Tangail')
-
-INSERT [dbo].[paper] ([paper_id], [paper_name], [published_date], [instructorID]) VALUES (N'001', N'Bhd', N'1-02-2012', N'1002')
+INSERT INTO paper paper_id, paper_name, published_date, instructorID VALUES ('001', 'Bhd', '1-02-2012', '1001');
 
 
 
 Ans: 3 ==================================================
 
 
-select sum(Cast(salary as INT)) , avg(Cast(salary as INT))  from instructor where Department='CSE' 
+select sum(salary) , avg(salary)  from instructor where Department='CSE' 
 
 ==================================================
 
