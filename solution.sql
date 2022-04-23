@@ -21,9 +21,10 @@ CREATE TABLE paper(
 
 Ans 2: ==================================================
 
+
 INSERT INTO instructor (Id_No, Name,Department,salary,home_city) VALUES   ('1001', Ekfa ','EEE', '750000', 'Dhaka');
 
-INSERT INTO paper (paper_id, paper_name, published_date, instructorID) VALUES ('001', 'Bhd', '1-02-2012', '1001');
+INSERT INTO paper (paper_id, paper_name, published_date, instructorID) VALUES ('001', 'Malware Detection', '1-02-2012', '1001');
 
 
 
