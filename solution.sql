@@ -21,7 +21,6 @@ CREATE TABLE paper(
 
 Ans 2: ==================================================
 
-
 INSERT INTO instructor (Id_No, Name,Department,salary,home_city) VALUES   ('1001', Ekfa ','EEE', '750000', 'Dhaka');
 
 INSERT INTO paper (paper_id, paper_name, published_date, instructorID) VALUES ('001', 'Malware Detection', '1-02-2012', '1001');
@@ -30,13 +29,12 @@ INSERT INTO paper (paper_id, paper_name, published_date, instructorID) VALUES ('
 
 Ans: 3 ==================================================
 
-
 select sum(salary) , avg(salary)  from instructor where Department='CSE' 
 
-==================================================
 
 
 Ans 4: ==================================================
+                                                                           
 select instructor.Name ,paper.paper_name from instructor inner join paper on instructor.Id_No=paper.instructorID where instructor.home_city='Dhaka'
 
 
